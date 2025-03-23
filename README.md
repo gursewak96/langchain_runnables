@@ -46,4 +46,8 @@ Run any example using:
 
 Replace runnable_sequence.py with any other script name to explore different functionalities.
 
+## 🎥 Credits
+
+[CampusX](https://www.youtube.com/watch?v=47nc0n-e4_w). Check it out for more insights! 📺
+
 
