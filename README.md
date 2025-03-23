@@ -18,8 +18,9 @@ LangChain's Runnable modules provide a flexible way to build and execute computa
 
 Each example is provided as a separate Python file (.py) for easy reference and execution.
 
-##📂 Repository Structure
+## 📂 Repository Structure
 
+```
 langchain-runnable-examples/
 │── runnable_sequence.py  # Example of RunnableSequence 🔄
 │── runnable_parallel.py  # Example of RunnableParallel ⚡
@@ -27,6 +28,7 @@ langchain-runnable-examples/
 │── runnable_passthrough.py  # Example of RunnablePassthrough 🔁
 │── runnable_lambda.py    # Example of RunnableLambda 🏗️
 │── README.md  # You are here! 📖
+```
 
 ## 🚀 Getting Started
 
